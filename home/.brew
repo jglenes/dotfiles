@@ -17,6 +17,7 @@ homebrew/dupes
 homebrew/science
 homebrew/versions
 phinze/cask
+caskroom/versions
 robrooms/profanity
 staticfloat/julia
 
