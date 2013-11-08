@@ -17,8 +17,8 @@ export BASH_IT_THEME='joshuaguy'
 export GIT_HOSTING='git@git.domain.com'
 
 # Set my editor and git editor
-export EDITOR="/usr/local/bin/mvim"
-export GIT_EDITOR='/usr/local/bin/mvim'
+export EDITOR="/usr/local/bin/mvim -v"
+export GIT_EDITOR='/usr/local/bin/mvim -vf'
 
 # Set the path nginx
 export NGINX_PATH='/opt/nginx'
