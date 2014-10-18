@@ -1,0 +1,15 @@
+{
+	"color_scheme": "Packages/User/base16-ocean.dark (SL).tmTheme",
+	"font_face": "Source Code Pro",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"SublimeLinter-pep8",
+		"Jedi - Python autocompletion",
+		"SublimeLinter-json"
+	],
+	"tab_size": 2,
+	"theme": "Spacegray.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"use_simple_full_screen": true
+}

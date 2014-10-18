@@ -1,0 +1,22 @@
+{
+	"installed_packages":
+	[
+		"Anaconda",
+		"Djaneiro",
+		"Django Manage Commands",
+		"Emmet",
+		"GitGutter",
+		"Grunt",
+		"Jedi - Python autocompletion",
+		"LaTeXTools",
+		"LESS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-pep8",
+		"SublimeREPL",
+		"Theme - Spacegray",
+		"View In Browser"
+	]
+}
