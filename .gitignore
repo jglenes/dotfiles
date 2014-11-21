@@ -1,0 +1,4 @@
+# Ignore font caching
+home/.fonts/fonts.dir
+home/.fonts/fonts.list
+home/.fonts/fonts.scale
