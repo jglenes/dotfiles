@@ -39,8 +39,11 @@ export TODO="t"
 # https://github.com/xvzf/vcprompt
 #export VCPROMPT_EXECUTABLE=~/.vcprompt/bin/vcprompt
 
+# Hello
+figlet -w 100 -f block "hi."
+
 # What does the stegosaurus say?
-uptime | cowsay -f stegosaurus
+uptime | cowsay -f flaming-sheep
 
 # Load Bash It
 source $BASH_IT/bash_it.sh
