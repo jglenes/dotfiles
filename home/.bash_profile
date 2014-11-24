@@ -40,10 +40,10 @@ export TODO="t"
 #export VCPROMPT_EXECUTABLE=~/.vcprompt/bin/vcprompt
 
 # Hello
-figlet -w 100 -f block "hi."
+figlet -w 100 -f block "josh."
 
 # What does the stegosaurus say?
-uptime | cowsay -f flaming-sheep
+# uptime | cowsay -f flaming-sheep
 
 # Load Bash It
 source $BASH_IT/bash_it.sh
