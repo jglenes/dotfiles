@@ -166,3 +166,6 @@ Bundle 'myhere/vim-nodejs-complete'
 Bundle 'davidhalter/jedi-vim'
 Bundle 'jmcantrell/vim-virtualenv'
 let g:virtualenv_auto_activate = 1
+
+Bundle 'ekalinin/Dockerfile.vim'
+
